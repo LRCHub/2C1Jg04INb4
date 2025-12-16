@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "팔레트",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-16T17:03:40.060301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Palette - 팔레트 (Feat. G-DRAGON)",
+      "artist": "IU - 아이유",
+      "has_synced": true,
+      "path": "select/01_Palette_-_팔레트_(Feat._G-DRAGON)_IU_-_아이유.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Palette (feat. G-DRAGON) (팔레트 ) (feat. G-DRAGON)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Palette_(feat._G-DRAGON)_(팔레트_)_(feat._G-DRAGON)_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "팔레트 (Feat. G-DRAGON) (Palette (Feat. G-DRAGON))",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_팔레트_(Feat._G-DRAGON)_(Palette_(Feat._G-DRAGON))_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Palette (feat. G-DRAGON) (팔레트 (feat. G-DRAGON))",
+      "artist": "IU, G-DRAGON",
+      "has_synced": true,
+      "path": "select/04_Palette_(feat._G-DRAGON)_(팔레트_(feat._G-DRAGON))_IU,_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Palette (팔레트)",
+      "artist": "IU (아이유); G-DRAGON",
+      "has_synced": true,
+      "path": "select/05_Palette_(팔레트)_IU_(아이유);_G-DRAGON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "팔레트",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_팔레트_IU.txt"
+    }
+  ]
+}
